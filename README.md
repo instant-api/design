@@ -1,2 +1,3 @@
-# design
-Logo for Instant API
+# Instant-API Design
+
+> Logo for Instant API
